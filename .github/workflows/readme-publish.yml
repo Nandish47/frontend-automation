@@ -28,4 +28,4 @@ jobs:
     - uses: actions/checkout@v3
     - uses: readmeio/rdme@7.0.3
       with:
-        rdme: rdme docs md --key=PeA1AWLWoctIJLRwI5EW3wg1GXhHEJxI --version=1.0
+        rdme: rdme docs frontend-automation --key=PeA1AWLWoctIJLRwI5EW3wg1GXhHEJxI --version=1.0
