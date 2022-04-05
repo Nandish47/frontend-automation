@@ -1,3 +1,10 @@
+---
+title: "Test Automation"
+excerpt: "Test Automation with Multi module maven project"
+category: "624c19631f9373041d668ed6"
+hidden: false
+---
+
 # Test Automation
 
 Boilerplate Project for Test automation with Maven and Extent report
@@ -25,7 +32,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Running Tests
 
-### Commnds are compatible on MacOS
+### Commands are compatible on MacOS
 
 Clone Project and run the following command
 
