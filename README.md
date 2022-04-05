@@ -25,6 +25,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Running Tests
 
+### Commnds are compatible on MacOS
+
 Clone Project and run the following command
 
 ```
