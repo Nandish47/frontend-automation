@@ -178,7 +178,7 @@ public class RestBase {
      * @param url
      * @param path
      * @param headers
-     * @return
+     * @return Response
      */
     public Response PUT (String url, String path, Map<String, String> headers){
         RestAssured.baseURI = url;
