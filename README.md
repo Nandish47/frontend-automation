@@ -18,8 +18,6 @@ Boilerplate Project for Test automation with Maven and Extent report
  - Capture Screenshots of failed assertions
  - Rest API Integration
 
-![image](https://user-images.githubusercontent.com/40452994/164255839-ad41e552-0fe1-4fec-b9e2-62cd8c19e68b.png)
-
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
