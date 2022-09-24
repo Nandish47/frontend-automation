@@ -1,10 +1,3 @@
----
-title: "Test Automation"
-excerpt: "Test Automation with Multi module maven project"
-category: "624c19631f9373041d668ed6"
-hidden: false
----
-
 # Test Automation
 
 Boilerplate Project for Test automation with Maven and Extent report
